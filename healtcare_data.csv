@@ -1,0 +1,1001 @@
+Patient Age,Gender,BMI,Children,Smoker Status,Region,Procedure Type,Visit Duration,Total Charges
+47,Male,35.0,3,No,Southwest,Consultation,15.56,3750.5
+37,Female,32.62,3,Yes,Northeast,Surgery,5.03,7403.53
+49,Female,28.3,0,No,Northeast,Laboratory Tests,5.27,3174.15
+62,Female,24.77,3,Yes,Northwest,Surgery,44.39,8589.86
+36,Male,31.49,4,No,Southeast,Other,33.4,3353.74
+36,Male,29.97,4,No,Southwest,Consultation,6.97,4577.87
+63,Male,32.48,1,Yes,Northwest,Other,17.77,8780.42
+51,Male,31.18,0,No,Southeast,Laboratory Tests,28.85,2933.49
+32,Male,33.25,4,No,Northeast,Laboratory Tests,40.27,3201.22
+48,Male,25.32,2,No,Southeast,Laboratory Tests,3.05,2394.35
+33,Female,34.59,0,Yes,Northeast,Laboratory Tests,12.12,8247.44
+33,Male,28.99,0,No,Northeast,Surgery,42.82,2759.23
+43,Male,38.38,4,No,Northwest,Consultation,1.43,3941.22
+11,Female,24.55,2,No,Northeast,Laboratory Tests,10.47,2548.31
+14,Male,36.68,1,Yes,Northwest,Other,46.07,8043.21
+31,Female,28.99,4,Yes,Southeast,Laboratory Tests,29.83,7834.01
+24,Female,24.74,2,No,Southeast,Consultation,13.3,3852.28
+44,Male,25.58,0,No,Northeast,Other,4.15,3078.99
+26,Female,26.4,2,No,Northwest,Other,2.32,3956.24
+18,Female,30.12,0,No,Northeast,Other,12.5,3425.49
+61,Female,30.61,4,No,Northwest,Surgery,42.43,3785.32
+36,Female,25.13,4,No,Northwest,Laboratory Tests,20.55,3319.0
+41,Male,27.88,3,No,Northwest,Surgery,34.86,3446.46
+18,Female,38.71,3,No,Southeast,Other,44.16,2226.39
+31,Male,36.64,3,No,Northwest,Surgery,20.18,3165.31
+41,Female,30.18,4,No,Southeast,Surgery,9.99,3718.21
+22,Female,28.19,1,No,Northwest,Surgery,25.3,3003.35
+45,Female,28.6,4,No,Southeast,Laboratory Tests,43.68,2609.41
+30,Male,31.07,2,No,Southwest,Other,38.81,3155.15
+35,Male,22.89,4,No,Southeast,Other,4.09,3929.77
+30,Male,26.71,4,No,Southeast,Laboratory Tests,33.55,3717.71
+67,Female,19.66,0,No,Northeast,Surgery,27.88,3366.14
+39,Female,30.0,0,Yes,Northwest,Surgery,43.65,8743.65
+24,Female,31.24,0,No,Southwest,Consultation,6.76,2929.47
+52,Female,25.58,4,No,Northeast,Consultation,26.1,2483.75
+21,Male,35.87,1,No,Northwest,Consultation,42.33,2707.17
+43,Female,21.87,2,No,Southwest,Laboratory Tests,20.27,3934.87
+10,Male,20.68,2,No,Southwest,Other,23.65,2596.57
+20,Female,29.12,1,Yes,Southwest,Consultation,4.31,7900.75
+42,Male,33.24,1,No,Northwest,Other,14.07,3218.79
+51,Male,36.42,2,No,Southwest,Other,16.25,4492.46
+42,Female,25.71,3,No,Southwest,Other,45.42,4031.09
+38,Female,33.39,0,No,Northeast,Laboratory Tests,14.29,4433.26
+35,Male,27.81,0,No,Southeast,Laboratory Tests,22.66,3096.63
+17,Female,27.14,2,No,Northwest,Laboratory Tests,32.55,3094.55
+29,Female,32.42,1,No,Southeast,Laboratory Tests,8.62,2438.04
+33,Male,31.26,3,Yes,Northeast,Consultation,23.86,8959.7
+55,Male,20.12,2,No,Southeast,Surgery,35.71,2678.47
+45,Male,35.38,0,No,Southwest,Surgery,41.74,3556.04
+13,Male,34.9,4,No,Southwest,Surgery,30.43,2505.36
+44,Female,24.87,1,No,Northwest,Consultation,32.45,2931.01
+34,Male,29.98,4,Yes,Northwest,Surgery,6.94,7788.95
+29,Male,30.47,2,No,Northwest,Consultation,45.45,2853.47
+49,Male,29.3,0,Yes,Northeast,Consultation,7.23,8104.51
+55,Female,25.25,3,No,Northwest,Consultation,37.41,3090.84
+53,Male,24.64,4,No,Northeast,Surgery,13.45,3745.5
+27,Female,27.87,3,Yes,Southwest,Other,44.88,7529.01
+35,Male,33.86,0,No,Southeast,Surgery,34.84,3407.54
+44,Male,30.72,4,Yes,Southwest,Surgery,36.43,8951.34
+54,Female,26.15,3,No,Southwest,Laboratory Tests,11.3,3114.34
+32,Male,31.86,3,No,Southwest,Consultation,21.82,2862.21
+37,Male,15.0,4,Yes,Northwest,Other,30.04,7828.74
+23,Female,33.74,0,No,Northwest,Laboratory Tests,37.19,3740.74
+22,Male,19.3,3,Yes,Northwest,Other,5.89,7947.08
+52,Male,26.19,2,No,Southeast,Other,46.23,3082.15
+60,Male,22.4,4,No,Northwest,Consultation,42.84,3609.97
+38,Male,21.53,1,No,Northeast,Surgery,13.71,2535.39
+55,Female,33.8,1,Yes,Southwest,Consultation,39.67,8876.76
+45,Male,25.66,0,No,Southeast,Consultation,25.36,3457.53
+30,Female,29.73,2,No,Southeast,Laboratory Tests,22.7,3000.75
+45,Male,27.77,3,No,Southeast,Consultation,15.78,2876.02
+63,Female,30.39,1,No,Southeast,Surgery,28.31,3120.36
+39,Male,28.38,0,No,Southeast,Other,35.3,3503.09
+63,Female,21.59,2,No,Northeast,Consultation,20.31,4002.19
+0,Male,32.98,2,No,Southwest,Other,30.57,2540.97
+52,Female,25.53,0,No,Southeast,Consultation,33.87,3563.82
+41,Female,20.22,0,No,Southwest,Other,34.42,2052.83
+35,Male,25.86,3,No,Northwest,Consultation,3.44,2844.88
+41,Female,35.5,0,Yes,Southeast,Laboratory Tests,41.41,8386.55
+10,Male,32.25,3,No,Southeast,Other,22.54,2510.18
+36,Male,26.26,3,No,Southwest,Consultation,13.33,2688.88
+45,Male,26.25,4,No,Southeast,Consultation,12.36,2931.18
+62,Male,26.39,2,No,Southeast,Laboratory Tests,23.7,3617.93
+32,Male,38.38,2,No,Southeast,Laboratory Tests,42.68,3258.01
+27,Female,29.91,2,Yes,Northeast,Laboratory Tests,18.78,7003.08
+32,Male,30.15,4,Yes,Northeast,Other,36.24,7126.65
+53,Male,33.15,3,No,Southeast,Other,5.55,3195.6
+44,Male,29.19,3,No,Northeast,Laboratory Tests,23.37,3540.72
+32,Male,26.7,0,No,Northwest,Surgery,47.61,1744.34
+47,Male,27.02,4,No,Southeast,Surgery,37.21,3054.5
+41,Male,27.64,0,No,Northwest,Consultation,10.89,2981.72
+54,Female,27.81,4,No,Southwest,Surgery,24.57,4098.45
+29,Female,31.64,0,No,Northwest,Consultation,11.98,2988.25
+35,Male,28.26,1,Yes,Southwest,Other,20.25,8376.69
+34,Female,31.66,2,No,Southeast,Other,37.66,3311.89
+18,Male,27.6,2,No,Southwest,Surgery,37.25,1902.65
+44,Male,28.39,3,Yes,Southwest,Other,11.72,8679.97
+43,Male,18.01,1,No,Northwest,Laboratory Tests,44.34,3183.88
+40,Male,32.58,2,No,Northwest,Laboratory Tests,28.85,3585.77
+36,Male,29.73,3,No,Northwest,Surgery,18.86,5189.77
+18,Female,32.99,1,No,Southeast,Surgery,24.59,2033.74
+33,Female,15.0,2,No,Southeast,Consultation,29.44,3758.35
+34,Female,38.44,0,No,Northwest,Other,27.31,3233.11
+27,Female,27.3,4,No,Southeast,Consultation,23.86,3213.71
+37,Male,33.54,1,No,Southeast,Consultation,24.73,3292.06
+46,Female,22.8,3,Yes,Southwest,Laboratory Tests,9.29,7995.89
+68,Male,31.06,1,No,Southwest,Laboratory Tests,39.2,3352.36
+42,Female,22.73,3,No,Northwest,Laboratory Tests,26.46,3323.41
+43,Female,24.88,1,No,Southeast,Laboratory Tests,7.16,2455.04
+38,Female,37.57,3,No,Southwest,Consultation,37.01,3782.69
+11,Female,27.05,2,No,Northeast,Laboratory Tests,44.82,2664.83
+39,Male,29.09,0,No,Southeast,Other,45.52,2684.71
+40,Female,32.35,2,No,Northeast,Laboratory Tests,18.34,3102.0
+76,Female,30.48,0,No,Northwest,Laboratory Tests,7.37,4350.14
+37,Male,28.75,2,No,Southeast,Laboratory Tests,25.36,2951.37
+44,Male,29.82,2,No,Northwest,Surgery,6.29,3503.72
+39,Female,40.02,1,No,Northwest,Other,44.9,3102.86
+22,Male,27.71,4,No,Northwest,Other,9.63,3397.2
+57,Male,29.01,3,Yes,Northwest,Consultation,12.88,8806.86
+51,Male,33.25,3,No,Northwest,Consultation,20.11,4401.37
+51,Female,33.53,3,No,Southeast,Laboratory Tests,19.01,3394.77
+26,Male,33.94,0,No,Northeast,Surgery,38.35,3525.03
+61,Female,31.19,3,No,Southeast,Consultation,22.45,3604.91
+18,Female,22.28,3,No,Southeast,Consultation,9.03,3509.64
+48,Female,36.17,1,No,Southeast,Laboratory Tests,13.56,3139.93
+72,Female,22.27,2,Yes,Southwest,Laboratory Tests,24.93,8881.87
+25,Male,29.51,3,No,Southwest,Consultation,7.93,2992.91
+31,Female,24.23,4,No,Southeast,Consultation,29.75,3024.48
+41,Male,27.68,3,No,Northeast,Other,27.59,3291.46
+32,Female,29.64,0,Yes,Southeast,Surgery,34.59,8303.0
+16,Male,29.61,0,Yes,Northwest,Other,45.07,7926.02
+41,Female,30.11,0,No,Southwest,Consultation,43.88,3401.55
+24,Male,36.07,3,No,Southwest,Other,45.47,3998.43
+47,Female,30.27,1,No,Southeast,Other,12.5,3862.08
+26,Female,26.78,4,Yes,Southeast,Consultation,7.18,8482.16
+63,Male,32.82,3,No,Northeast,Laboratory Tests,15.21,3384.64
+28,Female,33.95,1,No,Northeast,Consultation,43.07,2770.33
+35,Female,21.86,1,Yes,Northwest,Laboratory Tests,46.69,8534.89
+52,Female,30.99,3,Yes,Southeast,Consultation,41.39,8881.76
+21,Male,31.51,3,No,Southeast,Consultation,6.17,3818.45
+43,Female,26.51,1,No,Southeast,Consultation,45.53,2944.25
+59,Female,34.88,1,No,Southwest,Surgery,20.9,3490.8
+15,Male,27.25,1,No,Northwest,Laboratory Tests,1.44,2105.25
+42,Male,28.63,3,No,Northeast,Surgery,21.79,3080.32
+43,Male,27.13,1,Yes,Southwest,Consultation,3.17,8756.98
+51,Male,28.08,0,No,Southwest,Other,26.56,3140.31
+21,Male,22.52,3,No,Southwest,Surgery,16.91,3222.61
+20,Female,20.8,0,No,Southwest,Laboratory Tests,23.25,2760.74
+47,Female,35.97,2,No,Northwest,Consultation,29.82,3645.48
+44,Female,23.77,3,No,Southeast,Surgery,41.83,2629.46
+43,Male,23.04,2,No,Northeast,Other,32.11,3219.47
+45,Female,17.23,1,No,Northeast,Surgery,21.4,1589.09
+29,Male,24.81,1,No,Southwest,Laboratory Tests,39.51,2950.66
+43,Male,21.38,4,No,Southwest,Surgery,43.56,2328.45
+44,Female,36.21,1,Yes,Northwest,Other,6.63,9055.2
+29,Male,33.05,2,Yes,Southwest,Other,26.0,8597.69
+67,Male,24.56,1,No,Northeast,Laboratory Tests,14.37,3728.52
+47,Female,39.26,3,No,Northeast,Other,3.21,4309.75
+22,Male,32.91,1,Yes,Southeast,Consultation,32.42,7647.72
+49,Male,26.38,4,No,Southeast,Other,41.55,4189.2
+25,Female,15.5,1,Yes,Northeast,Consultation,8.66,8276.16
+51,Male,39.45,2,No,Northeast,Surgery,39.18,3482.82
+57,Male,21.05,2,No,Northwest,Consultation,41.11,3872.85
+27,Female,19.77,1,No,Northwest,Consultation,43.97,2366.31
+54,Female,33.11,2,No,Northeast,Surgery,13.47,3098.0
+46,Female,40.2,2,No,Southwest,Other,43.49,3251.68
+52,Female,34.92,4,Yes,Southeast,Consultation,16.07,8257.94
+68,Male,30.82,3,No,Northeast,Other,26.96,3104.11
+36,Male,30.97,4,No,Southwest,Surgery,3.37,3863.02
+28,Female,32.27,0,No,Northeast,Laboratory Tests,3.06,3051.91
+26,Male,31.79,4,No,Southeast,Other,34.86,3324.15
+27,Male,29.41,1,Yes,Southeast,Other,21.89,7826.94
+38,Female,28.52,3,No,Northwest,Laboratory Tests,13.05,2316.12
+45,Female,27.69,1,No,Northwest,Laboratory Tests,9.95,3428.77
+44,Male,24.23,0,No,Northwest,Surgery,32.49,2256.48
+52,Female,26.6,3,No,Northwest,Other,1.02,3321.62
+40,Female,19.54,2,No,Southeast,Other,38.88,2386.55
+61,Female,27.51,4,No,Southwest,Surgery,4.72,4475.8
+36,Male,23.06,1,Yes,Southwest,Other,10.0,8548.82
+80,Female,22.48,0,No,Southwest,Consultation,19.15,3662.52
+49,Male,28.9,2,No,Northeast,Consultation,23.79,3997.84
+27,Male,34.96,4,No,Northwest,Consultation,17.68,2800.04
+23,Male,32.59,2,No,Northwest,Other,16.07,3399.57
+47,Female,20.15,4,No,Southeast,Consultation,46.3,3266.86
+36,Female,23.05,3,Yes,Southeast,Consultation,31.15,8225.05
+50,Female,32.7,2,No,Northeast,Surgery,2.1,4090.25
+47,Female,23.09,2,No,Northeast,Surgery,21.22,3592.0
+38,Female,26.88,2,No,Southwest,Laboratory Tests,42.13,3337.9
+27,Male,30.75,3,No,Southeast,Laboratory Tests,15.17,2311.56
+17,Male,23.16,0,No,Northwest,Laboratory Tests,5.44,2387.14
+33,Male,28.53,4,No,Southwest,Laboratory Tests,36.64,3105.18
+52,Female,21.33,2,Yes,Northwest,Surgery,29.48,8297.28
+43,Male,24.99,3,No,Southwest,Surgery,27.8,2650.76
+21,Male,29.6,0,No,Northwest,Surgery,3.52,4249.82
+42,Female,20.04,4,Yes,Northeast,Consultation,7.6,8862.9
+45,Female,30.2,3,Yes,Southwest,Consultation,30.26,8645.11
+26,Male,27.9,4,No,Northwest,Laboratory Tests,10.77,3106.05
+42,Male,30.76,2,No,Northwest,Consultation,24.69,3213.14
+40,Female,29.12,0,No,Southeast,Other,26.61,2786.43
+22,Female,34.82,3,Yes,Southwest,Surgery,14.32,8199.15
+45,Female,28.63,0,No,Northwest,Laboratory Tests,45.58,3441.4
+48,Female,25.85,2,No,Southeast,Laboratory Tests,40.6,2672.18
+56,Male,28.61,0,No,Northwest,Other,34.95,3611.32
+55,Male,30.72,0,No,Southwest,Consultation,4.67,3396.7
+19,Female,28.24,1,No,Northeast,Laboratory Tests,5.99,2038.98
+25,Male,28.2,0,No,Southwest,Consultation,24.16,2633.87
+47,Male,24.49,4,No,Southwest,Consultation,8.55,3047.0
+47,Female,24.69,3,No,Northwest,Other,46.98,4201.55
+47,Male,20.99,1,No,Northwest,Laboratory Tests,8.45,3462.02
+97,Male,36.75,3,No,Southwest,Consultation,23.91,3431.22
+48,Male,21.78,3,No,Southeast,Consultation,18.11,3454.63
+57,Female,24.54,2,Yes,Southeast,Other,31.05,7601.06
+54,Female,24.41,2,Yes,Southeast,Other,7.06,8877.5
+49,Male,32.47,1,Yes,Northwest,Consultation,21.22,8201.93
+35,Female,26.53,2,No,Northwest,Other,13.91,3103.69
+51,Female,34.24,2,No,Southwest,Consultation,42.72,4159.67
+28,Female,24.63,2,Yes,Northeast,Laboratory Tests,2.91,7385.07
+36,Male,29.39,3,No,Northwest,Surgery,43.95,2521.34
+32,Male,23.82,1,No,Southwest,Other,40.15,2768.67
+41,Female,38.73,3,No,Southwest,Surgery,14.99,3985.7
+74,Male,22.06,4,No,Northeast,Consultation,38.1,2769.57
+11,Male,29.55,3,No,Southeast,Consultation,2.47,1506.9
+50,Male,31.17,4,Yes,Southwest,Consultation,46.44,8197.8
+15,Male,30.07,0,No,Southwest,Surgery,25.75,3257.25
+32,Male,27.07,0,No,Southwest,Consultation,15.25,3725.6
+56,Female,27.35,4,No,Southeast,Other,18.04,3187.44
+40,Male,28.22,4,No,Southeast,Laboratory Tests,4.12,3038.67
+23,Male,27.26,3,No,Northeast,Laboratory Tests,47.5,3598.25
+29,Male,32.82,4,Yes,Northwest,Other,2.85,7269.52
+50,Female,39.05,1,Yes,Southeast,Laboratory Tests,31.78,8386.79
+29,Female,25.21,0,No,Northwest,Surgery,21.81,3147.46
+43,Female,21.15,0,No,Northwest,Consultation,45.6,3363.63
+40,Male,27.56,4,Yes,Southeast,Consultation,12.56,7976.27
+30,Female,40.9,2,No,Southwest,Consultation,26.01,3395.19
+72,Female,23.98,2,No,Northeast,Surgery,23.67,2299.47
+49,Female,36.2,4,No,Northwest,Surgery,34.03,3182.79
+9,Female,36.39,1,No,Southwest,Surgery,4.2,3262.52
+42,Male,25.23,2,No,Southeast,Other,10.11,2717.49
+30,Female,30.84,4,No,Northwest,Surgery,11.08,3206.39
+52,Female,36.14,1,Yes,Northwest,Laboratory Tests,35.69,8770.28
+28,Male,26.1,1,No,Northwest,Other,9.89,2886.81
+38,Male,26.98,3,No,Southwest,Other,27.95,3280.87
+47,Female,25.09,1,No,Southwest,Other,11.12,2784.47
+52,Male,22.93,2,No,Southwest,Surgery,41.5,3179.22
+21,Female,24.75,2,No,Northwest,Other,45.28,3252.18
+34,Male,21.88,4,No,Northwest,Surgery,25.37,3124.09
+32,Male,28.17,4,No,Northeast,Surgery,17.56,2854.14
+30,Female,24.15,1,No,Northeast,Other,12.0,3155.11
+66,Male,29.17,0,Yes,Southwest,Consultation,3.34,8932.68
+46,Female,20.22,3,No,Southwest,Consultation,13.62,2131.44
+21,Male,29.65,0,No,Southeast,Other,31.75,3624.63
+53,Female,32.17,1,Yes,Southwest,Consultation,26.08,8311.23
+71,Male,18.03,1,No,Northeast,Laboratory Tests,45.37,3625.37
+55,Male,29.87,0,No,Northeast,Laboratory Tests,19.63,4056.03
+17,Male,34.14,3,No,Northeast,Surgery,33.61,2400.93
+32,Male,21.95,0,No,Northwest,Consultation,24.0,2668.32
+59,Male,36.36,4,No,Northwest,Laboratory Tests,25.09,3490.98
+29,Female,30.1,2,No,Southwest,Other,13.59,2758.03
+46,Male,24.47,4,No,Southeast,Consultation,22.38,4108.97
+51,Female,27.72,2,Yes,Southeast,Laboratory Tests,23.13,7938.04
+26,Female,30.79,1,No,Southeast,Laboratory Tests,34.21,2850.06
+39,Female,28.38,3,No,Northwest,Other,45.21,3337.8
+0,Male,30.69,0,No,Northeast,Surgery,16.48,2212.8
+24,Female,23.4,3,No,Northeast,Other,2.98,2758.09
+36,Male,28.85,0,No,Northwest,Surgery,24.33,3367.66
+21,Female,20.93,4,Yes,Southeast,Laboratory Tests,26.59,7704.2
+64,Female,27.44,4,No,Southeast,Surgery,8.92,3470.18
+18,Female,23.48,0,No,Southwest,Laboratory Tests,36.74,2620.94
+33,Female,24.32,3,No,Southwest,Laboratory Tests,47.29,2325.21
+41,Female,34.18,0,Yes,Southeast,Consultation,45.45,8536.41
+61,Male,33.46,1,Yes,Northwest,Surgery,10.26,9478.6
+18,Female,31.05,4,No,Southeast,Surgery,42.14,3046.11
+57,Female,22.54,1,No,Southwest,Surgery,34.11,3447.4
+40,Male,26.42,4,No,Southeast,Other,22.33,3554.72
+25,Male,34.07,4,No,Northwest,Consultation,26.41,2546.64
+46,Male,28.71,2,No,Northeast,Consultation,40.93,4177.43
+42,Female,39.6,1,No,Northwest,Consultation,23.57,3597.1
+30,Female,29.97,1,No,Northwest,Other,18.54,3975.26
+41,Female,28.96,2,No,Southwest,Surgery,24.18,2904.69
+34,Female,26.45,3,Yes,Northwest,Surgery,28.22,9046.12
+41,Female,28.67,1,No,Northwest,Surgery,9.89,3652.93
+49,Female,27.24,0,Yes,Southwest,Consultation,43.34,8609.27
+63,Male,31.54,2,No,Southwest,Consultation,32.69,3703.82
+21,Male,32.78,1,No,Northeast,Laboratory Tests,30.76,2983.41
+71,Female,24.07,3,Yes,Southeast,Other,5.68,9133.67
+10,Female,21.34,1,No,Northwest,Other,29.4,2817.06
+37,Female,18.82,4,No,Southwest,Consultation,6.69,2036.84
+48,Female,30.54,0,No,Northeast,Laboratory Tests,4.7,2828.21
+44,Female,22.48,2,No,Southeast,Surgery,25.78,3084.74
+30,Male,17.24,4,Yes,Southwest,Consultation,19.93,8059.71
+36,Male,29.94,3,No,Southeast,Other,28.67,3202.56
+32,Female,40.46,4,No,Southeast,Other,5.19,4002.79
+31,Male,27.97,4,No,Northwest,Other,21.26,2155.84
+52,Female,32.19,3,No,Northwest,Surgery,9.21,3539.64
+45,Female,28.41,4,No,Southwest,Other,47.39,2399.19
+29,Female,27.51,2,No,Southeast,Surgery,27.37,3477.97
+53,Male,32.6,1,No,Southwest,Surgery,33.31,3440.68
+44,Male,26.55,4,No,Southwest,Surgery,16.29,3468.78
+52,Female,29.34,2,No,Southeast,Consultation,5.45,2978.8
+49,Male,29.61,1,No,Southwest,Surgery,46.87,4019.9
+27,Male,24.66,1,No,Southeast,Laboratory Tests,14.45,3538.05
+31,Female,32.96,4,No,Southeast,Other,20.92,3522.98
+51,Male,27.13,2,No,Southeast,Consultation,31.54,3289.75
+49,Male,24.22,4,No,Southeast,Other,2.16,3562.35
+39,Female,30.68,3,Yes,Northeast,Surgery,39.08,7928.2
+41,Female,23.51,1,No,Southeast,Consultation,26.22,3589.93
+59,Male,28.14,4,Yes,Northwest,Laboratory Tests,14.08,9295.56
+31,Female,27.95,1,No,Northwest,Surgery,3.9,3666.39
+48,Male,33.43,2,No,Northwest,Other,8.64,3079.79
+36,Female,30.37,0,Yes,Southeast,Laboratory Tests,43.07,8420.18
+36,Female,27.87,4,Yes,Northwest,Surgery,33.24,7542.93
+56,Female,32.09,4,Yes,Northeast,Laboratory Tests,12.75,8799.97
+52,Female,34.95,1,No,Southwest,Surgery,4.08,3748.32
+52,Male,30.79,2,No,Southeast,Consultation,33.46,2504.87
+59,Female,28.05,3,No,Northwest,Surgery,27.9,2888.14
+40,Female,21.44,2,No,Northeast,Consultation,20.01,2967.25
+50,Female,22.67,4,No,Southwest,Surgery,18.09,3103.06
+35,Male,26.47,3,No,Northeast,Surgery,11.19,2544.74
+44,Male,24.95,2,No,Northwest,Other,32.47,3421.54
+38,Female,27.07,0,No,Northeast,Laboratory Tests,46.62,3323.04
+41,Female,28.28,1,No,Southwest,Laboratory Tests,9.26,3160.53
+48,Female,30.65,2,No,Northwest,Laboratory Tests,29.06,3011.07
+27,Female,27.65,2,No,Southwest,Surgery,20.94,3601.3
+71,Female,30.43,0,No,Northeast,Surgery,21.99,4488.35
+24,Female,28.32,4,No,Southeast,Surgery,12.94,2812.67
+21,Male,18.12,1,No,Southeast,Consultation,39.78,2508.37
+57,Female,23.3,2,No,Southeast,Consultation,23.81,3595.67
+51,Female,27.28,3,No,Southeast,Other,26.54,3178.58
+49,Female,21.95,2,No,Southwest,Surgery,15.32,3157.33
+49,Female,31.0,1,No,Southeast,Laboratory Tests,9.54,3777.82
+39,Female,35.65,2,No,Southwest,Laboratory Tests,5.04,2426.4
+26,Female,34.09,0,Yes,Northwest,Other,34.56,8853.03
+41,Male,26.93,2,No,Southeast,Laboratory Tests,10.22,3267.0
+29,Male,35.45,2,No,Southwest,Other,33.43,3051.33
+54,Male,28.74,3,No,Southeast,Surgery,19.35,3378.25
+37,Male,26.31,0,Yes,Southeast,Laboratory Tests,20.54,8151.51
+27,Male,24.93,0,Yes,Southeast,Surgery,23.05,7157.06
+35,Male,26.49,2,No,Southwest,Consultation,18.28,3897.22
+46,Female,26.06,3,No,Northeast,Laboratory Tests,5.73,3293.85
+31,Female,28.85,2,No,Southeast,Consultation,15.55,3370.54
+27,Female,28.8,2,No,Southeast,Laboratory Tests,32.2,3575.83
+43,Female,28.02,1,No,Northwest,Surgery,32.29,2765.72
+43,Female,30.18,1,No,Northeast,Other,14.45,3556.43
+32,Female,33.95,3,No,Southwest,Surgery,22.62,3129.24
+32,Male,32.75,4,No,Northwest,Surgery,10.09,3662.34
+43,Female,20.58,1,No,Southeast,Surgery,10.89,2063.9
+18,Male,15.23,4,Yes,Northwest,Laboratory Tests,2.08,7671.06
+18,Male,32.67,0,No,Northwest,Other,43.15,2768.02
+29,Female,21.17,1,No,Southeast,Consultation,10.9,3187.44
+36,Female,26.88,1,No,Northeast,Surgery,11.69,3404.55
+44,Female,22.15,3,No,Northeast,Laboratory Tests,14.14,2817.18
+62,Female,18.99,4,Yes,Northwest,Consultation,6.99,7967.72
+52,Female,30.71,1,Yes,Southeast,Surgery,31.05,8382.81
+37,Female,31.8,1,No,Southwest,Consultation,4.53,2831.59
+39,Female,25.12,3,Yes,Northwest,Surgery,7.31,8591.34
+24,Male,15.04,3,No,Southwest,Consultation,31.3,2604.29
+39,Female,25.27,4,No,Northwest,Consultation,16.96,1719.88
+35,Female,29.96,0,Yes,Northwest,Other,34.27,8031.77
+44,Male,20.61,0,No,Southeast,Other,27.2,2620.84
+27,Female,28.92,2,No,Southeast,Surgery,13.03,2286.7
+47,Female,27.92,1,No,Southwest,Laboratory Tests,31.59,2703.76
+62,Male,30.9,4,No,Southwest,Other,6.46,3616.63
+38,Female,28.6,1,No,Northeast,Consultation,26.21,3892.28
+46,Female,23.13,4,Yes,Southeast,Other,21.55,8371.29
+50,Female,33.98,4,No,Northwest,Other,13.59,3176.41
+33,Female,27.21,4,No,Northwest,Surgery,29.39,3368.1
+43,Female,27.86,1,No,Northeast,Other,41.95,3043.72
+40,Female,23.33,3,No,Southeast,Other,47.95,2799.37
+41,Male,25.78,1,No,Northwest,Consultation,29.56,2630.49
+28,Female,23.58,4,No,Northeast,Other,20.02,2131.61
+40,Female,27.14,2,No,Northeast,Consultation,11.58,3027.74
+47,Male,36.56,0,No,Northwest,Other,13.08,3574.2
+61,Male,21.14,4,No,Northwest,Other,23.53,3306.5
+54,Female,19.93,2,No,Southwest,Laboratory Tests,18.26,3038.66
+72,Male,35.36,3,No,Southeast,Other,43.95,3298.24
+28,Female,26.95,4,Yes,Southwest,Consultation,18.31,8379.19
+53,Female,24.65,2,No,Northeast,Consultation,18.55,2670.53
+42,Male,33.2,4,No,Northwest,Surgery,19.03,3756.0
+72,Female,24.97,1,No,Southwest,Surgery,40.32,3062.33
+27,Female,37.13,2,No,Northeast,Laboratory Tests,31.59,2890.38
+27,Male,31.39,1,No,Southeast,Consultation,29.87,2418.4
+31,Male,25.56,1,No,Northwest,Consultation,16.7,2832.51
+8,Male,38.79,2,No,Southwest,Consultation,39.44,3559.39
+32,Male,24.97,0,No,Southeast,Laboratory Tests,2.8,3341.24
+28,Female,31.71,2,Yes,Southwest,Consultation,41.93,8659.42
+42,Male,29.5,0,No,Northeast,Surgery,25.1,3555.0
+45,Male,34.51,4,No,Southeast,Laboratory Tests,19.72,2878.34
+68,Male,35.81,4,Yes,Southwest,Surgery,24.37,8566.76
+54,Male,28.16,2,No,Southeast,Surgery,32.37,3021.1
+31,Male,24.23,4,No,Northeast,Laboratory Tests,1.6,3721.95
+26,Female,30.3,3,No,Southeast,Other,41.96,2519.6
+47,Male,24.61,1,Yes,Southwest,Other,22.0,8703.08
+20,Female,38.07,1,No,Northeast,Surgery,17.12,3647.82
+67,Male,28.68,0,No,Northwest,Other,7.5,4492.46
+57,Male,26.17,4,No,Southwest,Consultation,21.65,3202.62
+32,Male,28.92,0,No,Southwest,Laboratory Tests,24.33,3518.63
+14,Male,21.26,1,No,Northeast,Surgery,19.97,3934.11
+60,Male,23.14,1,Yes,Northeast,Consultation,32.9,8074.02
+38,Male,34.0,4,No,Northwest,Other,20.78,2568.52
+58,Male,24.72,3,No,Southwest,Consultation,46.19,2450.31
+16,Male,22.77,3,No,Northeast,Other,29.17,3203.66
+31,Female,30.68,4,No,Northwest,Surgery,38.95,2244.09
+40,Male,33.93,4,No,Northwest,Consultation,6.14,3172.41
+40,Female,31.59,0,No,Northeast,Laboratory Tests,19.67,3530.55
+33,Male,32.98,4,No,Southwest,Surgery,16.83,3348.19
+49,Female,24.22,3,No,Southeast,Consultation,27.77,3485.04
+23,Male,20.89,4,No,Southeast,Consultation,41.47,3004.96
+37,Male,35.51,0,No,Northwest,Other,4.68,3993.57
+41,Male,26.39,0,No,Southeast,Surgery,4.41,2743.57
+47,Female,26.75,0,No,Southeast,Surgery,40.96,2960.42
+50,Female,34.64,0,No,Northeast,Surgery,11.0,3106.49
+23,Female,30.78,2,No,Northwest,Surgery,32.43,3506.72
+16,Female,30.28,4,Yes,Southwest,Other,26.52,8447.79
+59,Male,38.83,1,No,Northwest,Laboratory Tests,40.15,3910.11
+44,Male,24.78,4,No,Northeast,Surgery,6.88,3815.4
+28,Male,32.64,2,No,Southeast,Other,7.1,2599.76
+63,Female,28.29,0,No,Southwest,Laboratory Tests,27.17,4355.31
+41,Male,29.34,2,No,Northwest,Laboratory Tests,45.48,4040.48
+57,Female,35.64,3,No,Southeast,Other,20.5,3964.66
+41,Female,30.54,3,No,Northwest,Surgery,16.37,4193.68
+70,Female,30.69,4,No,Southwest,Laboratory Tests,29.51,2825.52
+66,Female,33.36,4,No,Northwest,Surgery,44.73,3397.03
+36,Female,26.18,1,No,Northwest,Surgery,40.34,2787.85
+54,Male,23.8,1,Yes,Northwest,Consultation,47.79,8684.82
+49,Female,22.78,3,No,Southeast,Surgery,2.06,2718.45
+60,Female,18.17,0,No,Southwest,Consultation,6.3,3662.11
+25,Male,38.28,2,No,Southwest,Laboratory Tests,29.64,3950.89
+50,Female,22.48,1,Yes,Southeast,Other,39.57,8597.28
+55,Female,26.89,1,No,Southeast,Consultation,14.41,3539.75
+13,Male,26.62,0,Yes,Southeast,Other,12.24,7394.38
+22,Male,29.54,0,No,Northeast,Laboratory Tests,37.99,2631.32
+9,Male,32.08,4,No,Northwest,Surgery,3.65,3574.38
+35,Female,32.3,2,No,Northwest,Laboratory Tests,18.36,3655.72
+50,Male,25.08,0,No,Southwest,Other,24.77,3282.18
+62,Male,27.16,1,No,Northwest,Laboratory Tests,27.34,3278.33
+41,Male,29.41,1,No,Northeast,Surgery,35.24,2267.35
+64,Female,26.76,3,No,Southeast,Laboratory Tests,17.68,2967.7
+19,Male,36.04,0,No,Southwest,Surgery,29.8,4104.44
+14,Female,30.45,4,Yes,Southwest,Consultation,28.51,7336.87
+39,Female,31.67,2,No,Northwest,Other,26.74,3396.23
+45,Male,31.31,4,No,Southwest,Surgery,31.1,3870.01
+39,Female,33.87,1,No,Southeast,Surgery,13.19,2717.89
+8,Female,28.91,4,Yes,Southwest,Laboratory Tests,4.98,7966.46
+38,Male,21.52,1,No,Southeast,Consultation,6.61,3555.27
+20,Female,30.0,1,No,Northeast,Surgery,11.56,3046.22
+50,Male,24.74,1,No,Northeast,Consultation,24.51,4729.07
+45,Female,25.36,1,Yes,Southeast,Consultation,40.5,7412.84
+25,Female,30.93,1,No,Northwest,Laboratory Tests,33.96,3648.0
+32,Male,34.19,3,Yes,Southwest,Surgery,38.08,8181.43
+24,Male,28.11,4,No,Northwest,Laboratory Tests,17.5,3436.09
+39,Female,29.54,3,No,Southwest,Other,20.02,3479.54
+54,Female,36.51,3,No,Northeast,Other,19.5,3211.64
+25,Male,29.2,0,No,Northeast,Surgery,10.02,3198.57
+47,Female,41.01,0,No,Northeast,Consultation,3.88,2655.22
+32,Female,30.83,0,No,Southwest,Surgery,28.77,3502.17
+28,Female,19.2,2,No,Northeast,Surgery,47.49,3069.0
+38,Female,31.77,0,No,Northeast,Other,8.84,3610.66
+24,Male,29.91,4,No,Northeast,Other,3.19,3615.18
+31,Male,34.45,3,No,Northeast,Consultation,37.64,3444.79
+22,Male,31.37,4,Yes,Northwest,Consultation,12.87,8165.36
+69,Male,27.31,0,No,Northeast,Surgery,39.99,3133.62
+40,Male,21.88,2,Yes,Northeast,Laboratory Tests,34.09,7761.46
+29,Male,26.95,2,No,Northwest,Surgery,45.45,3680.46
+43,Female,23.75,3,No,Northwest,Consultation,20.22,3909.12
+38,Male,25.1,4,No,Southwest,Laboratory Tests,32.11,3038.89
+36,Female,30.94,1,No,Southeast,Other,22.85,3273.86
+49,Female,36.35,4,No,Northeast,Consultation,30.64,3062.68
+51,Female,29.97,0,No,Northeast,Consultation,22.13,3997.85
+32,Male,22.02,1,No,Northeast,Laboratory Tests,9.87,3357.12
+31,Female,30.22,2,No,Southwest,Consultation,24.87,4147.07
+35,Male,33.98,3,Yes,Northeast,Consultation,25.84,7860.5
+5,Female,24.95,3,No,Southeast,Consultation,39.1,2570.02
+17,Female,27.33,2,No,Northwest,Consultation,35.57,3066.32
+60,Male,28.07,0,No,Southwest,Consultation,32.2,3804.71
+64,Female,24.08,2,No,Northwest,Consultation,6.33,3341.68
+36,Female,31.24,0,No,Northeast,Consultation,34.87,2820.35
+48,Female,27.4,1,Yes,Northeast,Consultation,24.51,8764.61
+44,Female,30.1,2,No,Northeast,Other,43.02,3690.52
+86,Male,23.56,0,No,Southeast,Consultation,44.23,3245.11
+56,Female,25.81,1,No,Southeast,Other,3.59,4065.98
+38,Female,31.61,2,No,Southwest,Other,39.57,3873.34
+25,Male,26.14,3,No,Northwest,Surgery,2.77,3089.86
+15,Female,36.63,2,Yes,Northeast,Surgery,18.26,8152.5
+43,Female,26.0,4,No,Northeast,Other,26.49,3513.07
+28,Female,29.12,2,No,Northeast,Other,7.96,2687.62
+18,Female,32.66,4,Yes,Northeast,Consultation,36.08,8084.27
+30,Male,20.91,1,No,Southeast,Surgery,1.39,1901.97
+23,Female,19.2,2,No,Northwest,Laboratory Tests,8.92,3298.15
+65,Male,20.37,1,No,Northwest,Surgery,28.3,2606.69
+53,Female,34.31,1,No,Southwest,Other,34.58,4273.97
+39,Female,25.24,0,Yes,Southeast,Other,44.08,8007.75
+62,Female,40.79,1,No,Northeast,Consultation,34.16,3653.99
+41,Male,25.18,1,Yes,Northwest,Consultation,32.57,7881.71
+27,Female,28.92,2,No,Northwest,Surgery,19.53,2958.44
+62,Female,35.71,2,Yes,Southeast,Consultation,1.06,9367.48
+48,Male,38.03,3,No,Southwest,Laboratory Tests,6.65,2292.7
+24,Male,38.31,0,No,Southwest,Laboratory Tests,26.12,3892.63
+37,Male,34.04,1,No,Northeast,Consultation,32.73,3493.85
+26,Male,33.12,0,No,Southwest,Laboratory Tests,20.62,2570.9
+19,Female,30.96,4,No,Northwest,Laboratory Tests,35.34,2509.6
+53,Female,31.89,1,No,Southwest,Surgery,25.53,4312.03
+68,Female,25.24,0,No,Northeast,Laboratory Tests,4.49,3048.13
+19,Female,23.91,3,No,Northwest,Other,10.02,2329.5
+48,Male,27.98,3,No,Southwest,Other,40.48,3904.32
+30,Female,27.15,1,No,Southwest,Surgery,35.07,3272.26
+32,Female,25.73,4,No,Southeast,Consultation,43.05,2629.71
+31,Female,31.48,3,No,Northeast,Surgery,6.53,3309.95
+27,Female,32.78,3,No,Southwest,Consultation,47.54,2666.65
+40,Male,28.44,4,No,Southeast,Consultation,10.84,3799.25
+27,Female,35.39,0,Yes,Northwest,Consultation,1.55,8762.44
+44,Female,22.29,3,Yes,Southeast,Consultation,47.88,8439.83
+39,Female,27.03,2,No,Southeast,Consultation,14.21,3389.46
+36,Male,24.42,3,No,Southwest,Surgery,32.4,4000.91
+26,Male,18.67,0,Yes,Southwest,Consultation,9.3,7885.19
+31,Female,27.59,0,No,Southwest,Laboratory Tests,28.27,2532.79
+51,Female,27.39,1,No,Southeast,Laboratory Tests,43.49,3584.56
+47,Female,35.57,2,No,Northwest,Consultation,16.05,4518.37
+25,Male,31.15,0,No,Northeast,Laboratory Tests,32.5,2615.7
+41,Female,22.88,4,Yes,Southeast,Other,9.83,7968.85
+51,Female,37.27,2,No,Southwest,Surgery,30.37,3765.63
+14,Female,34.11,2,No,Northeast,Surgery,16.81,3023.15
+48,Male,30.91,4,No,Northwest,Consultation,10.93,2903.06
+30,Female,26.87,3,No,Northeast,Consultation,15.72,3658.28
+48,Female,23.2,4,No,Southwest,Other,9.41,4400.08
+28,Male,26.14,4,No,Southeast,Consultation,43.39,3156.85
+12,Male,33.44,3,No,Southeast,Laboratory Tests,19.67,2560.84
+15,Female,37.42,3,No,Southwest,Other,12.53,2353.98
+40,Male,35.72,3,No,Southeast,Laboratory Tests,22.08,3523.31
+43,Female,25.56,3,No,Southwest,Surgery,16.07,3779.05
+26,Male,22.4,3,Yes,Southeast,Laboratory Tests,35.99,8197.62
+49,Male,28.7,4,Yes,Southeast,Surgery,46.65,8360.89
+15,Female,19.16,1,No,Southeast,Laboratory Tests,21.59,2468.52
+39,Female,29.62,1,No,Northwest,Surgery,41.47,2714.23
+21,Female,27.26,0,No,Northwest,Consultation,27.6,3414.62
+30,Male,25.67,1,No,Southwest,Laboratory Tests,8.39,3530.28
+40,Female,20.03,1,No,Northwest,Surgery,33.46,2307.66
+27,Female,30.57,4,No,Southwest,Laboratory Tests,25.13,3930.28
+34,Female,25.34,3,No,Northeast,Other,31.58,3401.77
+55,Female,22.15,3,No,Northeast,Consultation,42.82,4002.81
+31,Female,15.0,4,Yes,Northwest,Surgery,21.7,7200.94
+52,Male,27.86,1,No,Northeast,Other,43.36,2698.34
+23,Female,36.86,4,No,Northeast,Laboratory Tests,36.28,3138.74
+47,Female,36.31,0,No,Southeast,Other,23.96,3741.52
+61,Male,25.71,3,No,Southeast,Laboratory Tests,29.35,4344.47
+2,Female,24.99,2,No,Southwest,Consultation,16.3,3076.82
+28,Female,30.34,0,No,Northeast,Other,47.23,3021.54
+48,Female,23.01,0,Yes,Southwest,Consultation,32.37,7722.98
+36,Female,29.51,4,No,Southwest,Surgery,3.06,3837.18
+45,Female,31.83,1,No,Northeast,Laboratory Tests,16.35,2894.26
+30,Male,34.13,3,Yes,Northwest,Laboratory Tests,30.3,9056.93
+41,Male,27.5,2,Yes,Northeast,Consultation,3.65,8099.79
+37,Male,26.98,0,No,Southeast,Consultation,2.12,3978.92
+57,Female,23.61,2,Yes,Northeast,Surgery,22.15,8695.67
+43,Male,23.87,1,No,Northwest,Other,16.64,3124.81
+45,Female,26.87,1,No,Southwest,Laboratory Tests,21.6,3017.65
+33,Female,29.84,2,No,Southwest,Laboratory Tests,13.35,3022.28
+32,Female,32.57,3,No,Southeast,Surgery,8.74,3449.52
+33,Male,23.98,1,No,Southeast,Surgery,33.39,3114.26
+45,Male,35.46,2,No,Southeast,Consultation,25.18,3152.36
+33,Male,26.64,0,Yes,Southwest,Consultation,10.41,8046.07
+44,Female,27.89,2,No,Southeast,Other,16.02,3325.15
+71,Male,24.26,2,No,Northeast,Surgery,28.81,2472.91
+53,Female,15.88,4,No,Southwest,Other,4.39,3382.66
+35,Male,32.42,1,No,Northwest,Surgery,7.93,2778.54
+58,Male,31.68,3,No,Southwest,Laboratory Tests,4.44,2953.02
+33,Female,26.59,3,Yes,Northeast,Surgery,39.18,7284.2
+9,Female,28.33,4,Yes,Northeast,Surgery,36.36,6977.75
+24,Male,30.58,3,No,Southeast,Laboratory Tests,36.41,2421.87
+11,Male,20.19,2,No,Southwest,Surgery,34.67,2381.23
+34,Male,25.35,4,Yes,Southwest,Other,32.46,9091.72
+40,Female,31.97,0,No,Southwest,Consultation,23.42,3056.49
+65,Female,21.73,1,No,Northwest,Consultation,31.19,3503.45
+44,Male,29.47,1,No,Southeast,Other,2.8,3517.6
+36,Male,21.22,1,No,Northeast,Laboratory Tests,30.21,3121.87
+52,Female,30.33,2,Yes,Northeast,Surgery,37.56,8391.92
+6,Male,27.82,0,No,Southeast,Other,24.52,2230.79
+43,Female,19.92,4,No,Northeast,Consultation,17.8,3839.95
+51,Female,33.82,4,No,Northeast,Consultation,14.04,4392.07
+17,Female,24.33,1,No,Southeast,Other,31.21,2049.21
+57,Female,23.95,0,Yes,Northeast,Consultation,33.56,7850.96
+45,Female,29.0,0,No,Southwest,Other,41.94,3180.15
+33,Female,33.74,0,No,Northwest,Consultation,17.09,2788.59
+49,Male,22.92,3,No,Southeast,Other,37.18,3499.4
+74,Female,28.31,3,No,Northwest,Surgery,27.38,3290.03
+42,Female,30.14,1,No,Northeast,Surgery,42.49,4389.41
+43,Male,31.47,0,No,Northeast,Surgery,25.81,3940.58
+33,Female,28.88,0,No,Southwest,Surgery,25.33,3279.93
+27,Male,26.16,4,No,Southeast,Consultation,28.16,3560.79
+52,Female,23.86,4,No,Northeast,Laboratory Tests,36.22,3854.19
+27,Male,28.43,1,No,Southeast,Other,46.34,2810.64
+41,Male,22.64,0,No,Southeast,Laboratory Tests,4.46,2736.68
+32,Female,15.0,1,Yes,Southeast,Consultation,3.51,7923.07
+47,Female,30.18,4,No,Southeast,Consultation,45.06,3798.47
+45,Female,32.52,4,No,Southeast,Laboratory Tests,25.9,3459.92
+55,Female,16.19,3,No,Northwest,Laboratory Tests,29.9,2395.21
+32,Male,22.95,1,No,Southwest,Consultation,23.67,2641.61
+35,Male,31.1,1,No,Southeast,Consultation,5.4,3204.93
+25,Male,38.29,0,No,Northwest,Other,37.1,3227.92
+33,Female,28.1,0,No,Northeast,Surgery,36.12,4144.35
+45,Male,24.36,3,No,Southeast,Surgery,15.65,2534.21
+51,Female,27.09,2,No,Northeast,Other,15.39,3606.5
+26,Female,34.87,2,No,Southeast,Laboratory Tests,40.38,3954.04
+53,Male,24.77,2,No,Northwest,Consultation,4.4,4467.13
+60,Female,24.0,1,No,Northwest,Laboratory Tests,42.41,3197.88
+46,Male,25.59,1,No,Northwest,Surgery,13.06,3509.44
+68,Female,23.23,4,No,Southwest,Surgery,28.87,3765.55
+28,Male,28.61,1,No,Northeast,Laboratory Tests,44.99,3206.01
+21,Female,36.12,1,No,Southwest,Surgery,32.87,3125.05
+13,Male,29.62,1,No,Southeast,Consultation,20.48,3166.3
+62,Male,26.74,3,Yes,Northeast,Other,33.41,7212.64
+49,Female,26.54,1,No,Northwest,Laboratory Tests,17.17,3659.85
+39,Female,20.18,0,No,Northeast,Consultation,14.03,3134.77
+44,Male,32.42,0,No,Northwest,Consultation,47.84,3265.07
+23,Female,27.61,4,Yes,Southwest,Surgery,36.29,9051.65
+76,Female,27.1,3,No,Southwest,Consultation,31.3,3316.48
+41,Female,43.97,0,No,Northwest,Laboratory Tests,17.7,3369.77
+41,Male,29.49,3,Yes,Northwest,Consultation,3.31,9277.65
+50,Male,24.24,3,No,Southeast,Other,2.46,2868.79
+47,Female,25.87,4,No,Southwest,Consultation,27.05,3006.31
+43,Female,33.74,3,Yes,Southwest,Consultation,36.82,8317.33
+28,Male,28.57,1,No,Southeast,Other,26.26,3527.69
+47,Female,20.81,3,No,Southwest,Consultation,40.52,3284.07
+68,Male,32.6,4,No,Northwest,Consultation,2.57,3021.61
+60,Female,24.66,4,No,Northeast,Surgery,18.24,3147.1
+63,Female,37.37,4,Yes,Northeast,Laboratory Tests,12.14,8399.65
+32,Female,33.4,0,Yes,Southwest,Surgery,22.02,8213.39
+25,Male,25.76,1,Yes,Southeast,Laboratory Tests,4.4,8228.19
+38,Male,34.41,0,Yes,Northwest,Other,45.84,8553.2
+40,Male,28.34,2,No,Northeast,Other,11.49,2358.78
+56,Male,32.26,1,No,Northwest,Other,44.35,4049.25
+14,Female,30.42,3,No,Southwest,Laboratory Tests,21.02,3102.76
+62,Female,23.77,4,No,Southwest,Laboratory Tests,47.32,4111.63
+37,Male,24.78,2,Yes,Northeast,Laboratory Tests,27.04,8361.74
+33,Female,33.15,1,No,Southwest,Other,44.75,3809.66
+24,Female,26.33,0,No,Southeast,Laboratory Tests,1.25,3247.8
+15,Male,25.98,4,No,Southwest,Consultation,36.17,3572.75
+52,Female,23.22,0,No,Southwest,Surgery,43.44,3549.61
+41,Female,30.12,1,No,Southwest,Other,7.57,3245.4
+20,Male,38.31,1,No,Northwest,Surgery,5.52,4342.47
+20,Female,22.66,2,No,Northwest,Consultation,20.95,3337.77
+34,Female,28.12,3,No,Northeast,Laboratory Tests,44.88,3457.29
+65,Female,35.06,0,No,Northeast,Surgery,26.49,3043.07
+36,Male,27.6,2,No,Northeast,Consultation,25.79,2539.88
+17,Male,30.26,4,No,Southwest,Consultation,7.63,3155.59
+36,Female,22.69,3,No,Northwest,Surgery,1.04,3158.52
+35,Female,30.14,2,No,Southeast,Other,39.08,2915.77
+0,Female,27.06,0,No,Southwest,Surgery,5.12,2811.78
+39,Male,32.93,1,No,Southwest,Other,30.79,4120.89
+36,Male,33.94,4,No,Southwest,Laboratory Tests,43.99,3658.44
+50,Male,40.95,0,No,Southeast,Other,10.81,3048.45
+67,Female,30.9,3,Yes,Northeast,Laboratory Tests,32.27,8566.21
+56,Female,29.63,3,No,Southeast,Surgery,4.7,3062.1
+35,Female,28.97,1,No,Northeast,Laboratory Tests,29.38,3005.59
+23,Female,26.23,1,No,Southeast,Consultation,8.7,2793.88
+78,Female,29.69,4,Yes,Northwest,Laboratory Tests,35.59,8491.03
+40,Male,26.52,4,No,Southwest,Other,15.16,2582.89
+40,Female,28.84,1,No,Southwest,Other,22.78,3193.02
+39,Female,34.59,1,No,Southwest,Other,29.17,3079.46
+42,Female,22.97,3,No,Northeast,Laboratory Tests,9.05,1698.62
+37,Male,33.7,1,No,Southeast,Other,35.86,4344.47
+31,Female,34.59,2,No,Northwest,Other,15.22,3808.1
+31,Male,27.41,0,No,Southeast,Consultation,32.13,2932.04
+39,Male,17.39,1,Yes,Southwest,Laboratory Tests,8.44,8025.22
+31,Male,24.96,4,No,Northwest,Consultation,33.34,2485.39
+29,Male,34.48,2,Yes,Northwest,Other,7.02,9085.56
+41,Male,27.89,4,No,Southwest,Other,20.99,4198.36
+36,Female,23.0,2,No,Southeast,Other,12.62,3170.42
+62,Female,25.48,1,Yes,Southwest,Laboratory Tests,36.17,8965.29
+0,Male,32.2,0,Yes,Southeast,Surgery,13.32,7931.71
+56,Male,30.73,4,Yes,Northwest,Other,42.44,7818.31
+58,Male,26.81,2,No,Northwest,Other,42.92,3226.2
+8,Female,26.17,3,No,Southwest,Other,10.23,2885.28
+34,Female,26.04,1,No,Northwest,Other,29.85,2901.55
+34,Male,23.39,0,Yes,Northeast,Laboratory Tests,5.12,7966.43
+18,Female,36.08,1,Yes,Northwest,Surgery,19.4,8091.84
+28,Female,26.39,3,Yes,Northeast,Surgery,34.53,8023.33
+23,Male,34.09,0,Yes,Northwest,Surgery,31.99,8183.85
+66,Male,35.61,3,No,Southwest,Other,30.36,3173.83
+54,Female,32.99,1,No,Southwest,Other,14.28,3149.32
+59,Female,25.84,2,No,Northeast,Surgery,18.77,2782.55
+50,Female,30.02,1,Yes,Southwest,Surgery,5.84,8889.28
+23,Male,27.88,1,No,Northwest,Other,34.79,1980.76
+32,Male,23.48,1,No,Northwest,Other,24.68,3630.42
+47,Male,29.62,4,No,Southwest,Consultation,34.31,4049.61
+21,Female,22.1,3,No,Northwest,Consultation,12.7,2743.01
+50,Female,33.94,3,Yes,Southeast,Consultation,16.25,7177.2
+36,Male,25.68,3,No,Southeast,Surgery,16.71,2964.88
+34,Female,29.01,4,No,Northwest,Laboratory Tests,2.21,3156.02
+50,Male,29.42,2,No,Southwest,Other,17.03,2883.03
+46,Female,26.71,1,No,Northeast,Consultation,38.76,3028.5
+34,Male,30.93,2,No,Southwest,Laboratory Tests,43.17,3991.77
+57,Female,25.63,4,No,Northeast,Other,25.36,3728.97
+23,Female,32.36,3,No,Southwest,Laboratory Tests,22.41,2660.85
+49,Male,21.27,1,No,Northwest,Surgery,2.45,2414.6
+48,Male,28.63,0,No,Southeast,Surgery,42.32,3185.13
+35,Male,37.69,0,No,Southwest,Surgery,1.61,3267.16
+44,Male,23.0,2,No,Northeast,Consultation,45.4,3436.07
+21,Male,24.61,3,Yes,Southeast,Other,23.99,7676.57
+53,Female,30.57,0,No,Northeast,Surgery,17.07,3703.14
+37,Male,28.9,2,No,Northwest,Consultation,44.44,4189.54
+32,Male,29.75,4,No,Southeast,Consultation,2.15,3586.81
+55,Male,30.45,2,No,Northeast,Consultation,28.33,3444.87
+29,Male,31.17,2,No,Southwest,Consultation,26.8,3079.9
+18,Male,33.55,2,Yes,Northwest,Surgery,11.31,7908.63
+16,Female,30.05,1,No,Northwest,Consultation,21.16,3583.3
+49,Male,26.79,2,Yes,Northwest,Surgery,31.66,8010.22
+20,Male,31.36,2,No,Southwest,Surgery,35.18,3089.87
+66,Male,37.5,1,Yes,Southwest,Consultation,1.03,8767.59
+8,Female,27.34,1,No,Southeast,Surgery,45.03,2591.84
+65,Female,23.13,4,No,Southwest,Other,8.73,2756.31
+43,Male,33.54,3,No,Southeast,Other,11.98,3548.2
+38,Male,27.4,0,No,Northwest,Laboratory Tests,13.38,3173.46
+31,Female,17.14,0,No,Southeast,Other,2.78,3164.85
+45,Female,32.24,2,No,Northeast,Surgery,6.78,3117.94
+39,Female,25.32,4,No,Northwest,Surgery,47.36,3784.88
+56,Male,27.55,2,Yes,Northwest,Other,15.82,7984.56
+41,Male,29.66,0,No,Southeast,Consultation,6.42,4141.22
+42,Female,28.95,1,Yes,Northwest,Consultation,6.03,7409.23
+34,Male,31.55,3,No,Southwest,Surgery,34.81,3456.33
+39,Female,25.82,4,No,Northeast,Consultation,41.16,3422.17
+44,Female,30.57,1,No,Southeast,Laboratory Tests,13.08,2941.53
+14,Female,26.7,3,No,Southeast,Laboratory Tests,1.98,3114.24
+19,Male,31.69,4,No,Northwest,Other,11.49,3701.64
+51,Female,31.08,4,Yes,Southwest,Other,3.66,7325.13
+42,Female,23.32,0,No,Northwest,Consultation,5.86,3421.83
+37,Male,33.43,1,No,Northwest,Surgery,21.28,2065.96
+40,Female,25.32,4,No,Southeast,Other,11.81,2703.57
+45,Male,32.04,4,No,Northwest,Laboratory Tests,25.25,4195.39
+31,Female,29.84,3,No,Northeast,Other,12.91,2877.84
+28,Male,37.19,0,No,Northwest,Other,45.21,2692.88
+42,Female,26.88,2,No,Northwest,Laboratory Tests,43.58,3142.68
+25,Female,26.25,0,No,Southeast,Surgery,27.64,4059.02
+46,Female,27.9,2,No,Northwest,Other,17.66,2394.22
+14,Female,26.48,1,Yes,Southwest,Other,18.91,7372.03
+55,Female,32.0,1,No,Southeast,Other,20.36,4248.71
+47,Male,19.92,4,No,Northwest,Consultation,35.2,4091.22
+43,Male,22.73,1,No,Northeast,Other,22.23,3118.92
+54,Female,22.66,4,Yes,Northeast,Laboratory Tests,41.27,7681.69
+64,Female,32.75,0,No,Southeast,Surgery,45.37,4670.95
+55,Female,36.55,1,No,Southeast,Surgery,16.79,4388.28
+12,Male,27.48,0,No,Northwest,Laboratory Tests,27.35,3233.03
+20,Male,27.16,0,No,Southwest,Consultation,5.47,2576.92
+30,Female,28.35,1,Yes,Northwest,Laboratory Tests,10.42,8102.49
+40,Male,33.81,0,No,Northeast,Surgery,20.43,3276.01
+47,Female,23.36,1,No,Southwest,Laboratory Tests,10.69,3396.69
+29,Female,29.19,1,No,Southwest,Consultation,42.2,3857.34
+42,Female,32.88,1,No,Southwest,Surgery,8.44,3801.23
+28,Male,30.51,2,Yes,Northwest,Consultation,22.42,7607.42
+30,Female,28.95,0,No,Northeast,Laboratory Tests,29.47,3827.21
+18,Female,33.01,3,Yes,Southeast,Other,33.52,8232.67
+26,Female,15.0,1,No,Northwest,Laboratory Tests,19.0,3155.53
+19,Male,31.39,0,No,Southeast,Consultation,41.85,3789.06
+25,Male,24.73,4,No,Southwest,Laboratory Tests,27.71,2438.8
+55,Male,18.85,1,No,Southwest,Other,21.66,3219.02
+25,Female,30.56,1,No,Northwest,Consultation,4.16,2845.39
+79,Male,34.87,3,No,Northeast,Laboratory Tests,22.84,3061.44
+47,Female,27.31,2,No,Southwest,Consultation,39.57,3483.61
+42,Male,32.76,2,No,Southeast,Consultation,29.88,4615.07
+27,Female,36.06,1,No,Southeast,Surgery,40.11,2325.19
+50,Male,34.57,0,Yes,Northwest,Surgery,24.22,8475.35
+31,Female,36.2,4,No,Southeast,Consultation,6.57,3616.27
+41,Male,31.71,4,No,Northeast,Laboratory Tests,1.64,3387.75
+78,Male,28.38,0,No,Southwest,Laboratory Tests,15.25,3646.98
+38,Male,19.99,1,No,Southeast,Laboratory Tests,33.81,2406.2
+57,Female,26.77,4,No,Southeast,Other,38.14,3535.79
+29,Male,23.78,2,Yes,Southwest,Consultation,14.9,7645.29
+39,Male,38.85,0,No,Northwest,Consultation,24.3,2350.13
+66,Male,27.12,3,No,Southeast,Other,20.79,4131.71
+30,Male,28.62,1,No,Northwest,Consultation,20.29,3611.51
+67,Female,30.76,0,Yes,Northwest,Consultation,11.87,8644.98
+50,Male,28.22,4,No,Southeast,Other,7.41,3478.9
+31,Female,36.48,1,No,Northeast,Surgery,10.24,3838.66
+49,Female,24.89,2,No,Northwest,Consultation,3.6,3397.9
+54,Female,28.97,1,Yes,Southeast,Other,10.31,8879.47
+49,Female,24.29,1,No,Northwest,Laboratory Tests,1.43,3125.01
+16,Male,21.4,2,No,Southwest,Surgery,30.48,3475.99
+29,Female,24.94,2,No,Northeast,Laboratory Tests,15.87,3207.22
+36,Female,27.81,1,No,Northeast,Consultation,46.74,3285.32
+38,Female,25.85,2,No,Southwest,Surgery,10.1,2538.04
+49,Female,24.54,0,No,Southwest,Other,17.25,3422.24
+42,Male,20.97,2,Yes,Northwest,Consultation,17.82,7707.39
+19,Male,27.58,2,No,Southwest,Other,1.4,2660.55
+45,Female,20.48,1,No,Northeast,Surgery,40.44,2741.84
+49,Female,31.8,0,No,Southwest,Laboratory Tests,2.5,2890.89
+48,Female,28.41,3,Yes,Southeast,Consultation,45.19,9406.63
+56,Male,20.71,3,Yes,Southeast,Consultation,42.93,8951.91
+52,Male,26.45,4,No,Northwest,Other,26.17,4313.26
+46,Male,24.24,2,No,Northeast,Surgery,26.55,2625.34
+38,Male,29.6,2,No,Southeast,Other,31.73,3283.54
+15,Male,34.7,0,No,Southwest,Surgery,19.19,2427.29
+46,Female,18.62,3,No,Southeast,Consultation,31.42,2776.64
+43,Male,28.58,4,No,Southeast,Surgery,3.1,2828.44
+44,Male,27.2,0,No,Northwest,Consultation,3.54,3891.78
+20,Female,31.36,2,No,Southwest,Surgery,22.49,2869.02
+23,Male,29.07,3,No,Southwest,Laboratory Tests,26.83,3591.51
+55,Male,24.24,4,Yes,Southwest,Surgery,42.73,8646.86
+39,Male,26.4,1,No,Northwest,Laboratory Tests,5.92,4347.91
+50,Female,24.02,3,No,Southwest,Surgery,39.66,2540.68
+40,Male,33.38,4,No,Southwest,Surgery,10.87,3977.22
+40,Female,28.11,0,No,Southeast,Other,19.52,3815.35
+54,Female,37.51,1,No,Southeast,Other,15.88,3111.43
+32,Male,27.7,4,No,Southwest,Consultation,19.81,3641.5
+41,Male,24.46,4,No,Northeast,Other,8.07,3349.23
+33,Male,20.43,2,No,Northeast,Surgery,24.67,2890.89
+33,Male,18.98,3,No,Southwest,Other,38.68,2563.72
+35,Female,20.08,2,No,Northeast,Surgery,21.75,2662.03
+43,Male,29.34,1,Yes,Northwest,Laboratory Tests,24.06,9327.62
+32,Female,30.54,4,Yes,Southeast,Surgery,40.89,8195.21
+58,Female,20.09,2,No,Northwest,Consultation,34.18,3688.95
+26,Female,32.48,3,No,Southeast,Laboratory Tests,24.05,2766.05
+37,Female,25.58,1,No,Northeast,Consultation,13.11,2765.77
+33,Female,28.73,0,No,Northeast,Consultation,42.59,3711.67
+61,Male,36.06,2,No,Southwest,Consultation,28.12,2978.43
+42,Female,32.48,1,No,Northeast,Other,11.39,3146.08
+55,Female,26.66,0,No,Northeast,Consultation,13.65,3410.16
+17,Male,23.54,2,No,Southwest,Laboratory Tests,38.75,2930.57
+44,Male,17.24,1,No,Southwest,Surgery,3.07,2983.27
+53,Female,24.4,1,No,Southeast,Consultation,47.63,3521.99
+41,Female,26.94,2,No,Northeast,Laboratory Tests,7.13,3577.31
+55,Male,23.06,1,No,Southeast,Consultation,38.42,3688.6
+32,Female,27.34,4,Yes,Southeast,Surgery,19.55,7637.97
+61,Male,28.38,2,No,Northwest,Laboratory Tests,24.13,3357.61
+74,Male,26.88,1,No,Northeast,Laboratory Tests,42.39,4222.9
+34,Female,24.75,0,No,Northeast,Surgery,20.41,3550.32
+33,Male,28.84,0,No,Northwest,Laboratory Tests,26.26,2486.44
+61,Female,30.21,4,No,Southeast,Surgery,3.32,3711.93
+63,Female,22.55,2,No,Northeast,Laboratory Tests,1.11,2417.85
+32,Female,35.05,1,No,Southeast,Laboratory Tests,12.51,3308.56
+33,Male,27.51,1,No,Northwest,Surgery,32.99,4095.02
+35,Female,28.09,0,Yes,Southwest,Surgery,6.7,7707.94
+19,Male,31.54,4,Yes,Southeast,Laboratory Tests,6.35,7641.66
+26,Female,29.17,0,No,Northeast,Laboratory Tests,20.32,3477.34
+24,Female,32.77,0,No,Southwest,Surgery,31.45,2371.91
+28,Male,29.44,4,No,Southeast,Other,34.47,2808.33
+39,Female,24.94,2,Yes,Southeast,Surgery,9.39,8464.98
+43,Female,29.81,1,No,Southwest,Laboratory Tests,4.74,2995.01
+63,Male,22.28,2,Yes,Southwest,Laboratory Tests,45.2,8283.64
+25,Male,28.54,3,No,Southwest,Laboratory Tests,13.25,3442.95
+54,Male,27.83,3,No,Northeast,Surgery,41.11,3615.45
+36,Female,26.96,3,No,Northeast,Laboratory Tests,41.58,3304.6
+39,Male,27.36,4,Yes,Southeast,Other,37.31,8045.59
+50,Male,18.59,0,No,Southeast,Consultation,8.94,3356.85
+23,Female,25.26,2,No,Northwest,Other,39.62,2919.26
+45,Male,28.46,1,No,Northeast,Surgery,37.15,3538.19
+42,Female,28.8,3,No,Southeast,Laboratory Tests,29.05,3031.52
+47,Female,22.86,2,No,Southwest,Surgery,16.85,3129.95
+44,Male,34.33,3,No,Southwest,Consultation,13.34,2919.59
+76,Female,23.67,3,No,Northeast,Surgery,6.73,3567.88
+30,Male,32.85,1,No,Southwest,Laboratory Tests,24.96,2811.45
+32,Male,30.14,4,No,Northwest,Consultation,28.51,2629.7
+30,Male,24.77,0,No,Southeast,Consultation,17.89,3184.71
+31,Male,36.88,4,No,Southeast,Laboratory Tests,23.34,3415.9
+30,Female,22.03,2,Yes,Southeast,Laboratory Tests,18.09,8392.07
+57,Female,32.6,4,Yes,Northeast,Laboratory Tests,31.13,8320.35
+61,Male,33.0,2,No,Southwest,Surgery,43.36,3796.08
+31,Male,24.65,2,No,Northwest,Other,8.7,3340.34
+27,Female,34.96,0,No,Northeast,Surgery,18.93,3445.63
+47,Male,26.75,1,No,Southeast,Surgery,7.62,2886.17
+31,Female,29.44,0,No,Northwest,Other,30.37,3235.55
+49,Male,29.3,4,No,Southeast,Laboratory Tests,35.26,3556.1
+43,Female,27.33,2,No,Southeast,Laboratory Tests,44.8,3266.16
+17,Female,32.05,3,Yes,Northeast,Other,14.11,7001.84
+63,Female,31.97,3,No,Southeast,Other,45.66,3675.59
+66,Male,19.26,2,Yes,Northwest,Surgery,3.97,9483.41
+30,Male,34.52,0,Yes,Southeast,Consultation,29.34,8070.41
+34,Male,19.69,1,No,Southwest,Other,3.69,2637.71
+44,Male,33.16,0,No,Southeast,Surgery,43.01,3577.93
+45,Male,33.63,2,No,Northeast,Consultation,25.9,3568.86
+49,Female,22.55,2,No,Northwest,Laboratory Tests,32.46,3835.27
+70,Female,25.95,1,No,Northeast,Laboratory Tests,40.08,2929.98
+37,Female,22.47,4,No,Southwest,Surgery,8.06,3459.12
+28,Female,26.93,4,Yes,Southeast,Surgery,2.81,8369.72
+19,Female,26.46,1,No,Northeast,Other,42.31,2886.12
+29,Female,31.9,4,No,Northeast,Laboratory Tests,15.8,3355.31
+39,Female,34.55,3,No,Northeast,Surgery,7.06,3873.76
+66,Male,34.98,4,Yes,Northeast,Laboratory Tests,23.02,9127.73
+32,Female,25.19,4,No,Southwest,Laboratory Tests,29.12,2516.27
+43,Male,26.95,4,No,Southwest,Other,2.46,3665.16
+39,Female,19.58,3,No,Southeast,Consultation,13.92,3027.31
+57,Female,23.97,4,No,Southeast,Other,2.54,3399.85
+77,Male,32.82,3,No,Northwest,Surgery,20.76,3817.08
+32,Female,36.08,1,No,Southwest,Other,43.07,3230.44
+32,Male,21.83,0,No,Northeast,Other,47.18,3616.42
+55,Female,25.04,1,No,Northeast,Laboratory Tests,30.94,3318.89
+50,Male,27.87,0,No,Northwest,Other,8.6,2797.59
+67,Female,29.4,1,No,Northeast,Surgery,43.57,3395.25
+48,Male,23.95,0,No,Northwest,Consultation,25.26,3344.39
+34,Male,30.12,0,No,Southeast,Other,8.23,3825.01
+48,Female,25.63,2,No,Southwest,Other,44.32,3590.16
+56,Female,27.93,0,No,Northwest,Consultation,36.6,3005.29
+52,Male,30.73,0,No,Northeast,Surgery,35.39,4681.22
+47,Female,28.03,2,No,Northwest,Surgery,34.33,3457.03
+56,Male,25.82,4,No,Southeast,Other,10.42,4026.06
+57,Female,27.45,4,No,Northeast,Laboratory Tests,10.92,3357.18
+60,Male,27.56,2,No,Southeast,Other,33.35,3737.84
+49,Female,26.15,3,No,Southeast,Consultation,11.33,3730.73
+37,Male,26.71,0,No,Northwest,Consultation,21.62,3787.22
+42,Female,35.99,0,No,Southeast,Consultation,37.75,3952.55
+58,Male,30.8,2,No,Northeast,Other,37.85,3948.19
+27,Male,26.52,2,No,Southeast,Other,22.3,2896.91
+45,Female,31.48,3,No,Southeast,Surgery,38.23,3083.82
+34,Female,26.33,4,Yes,Northwest,Laboratory Tests,40.42,8300.92
+40,Male,33.87,1,No,Southeast,Other,31.77,3823.88
+59,Male,29.85,4,No,Southwest,Surgery,11.74,3393.6
+42,Male,27.46,0,No,Northwest,Other,13.88,3785.86
+40,Male,30.24,2,No,Northwest,Surgery,15.8,4011.08
+19,Female,20.15,3,No,Northeast,Surgery,6.49,2372.75
+51,Male,22.37,4,Yes,Northeast,Laboratory Tests,13.84,7840.86
+49,Male,22.03,3,No,Northeast,Other,10.85,3158.42
+72,Male,28.71,4,No,Northeast,Surgery,22.4,3792.1
+35,Female,36.66,0,No,Southwest,Consultation,43.7,3090.97
+43,Male,39.16,1,No,Northwest,Consultation,5.91,4175.23
+43,Female,31.19,3,No,Southeast,Consultation,34.85,3551.84
+63,Female,30.5,3,Yes,Northeast,Laboratory Tests,33.3,8585.81
+38,Female,18.99,1,No,Northeast,Surgery,5.5,2317.94
+44,Female,25.29,3,No,Northeast,Laboratory Tests,44.36,2575.82
+49,Female,24.06,3,Yes,Southeast,Other,27.72,8409.73
+42,Female,24.9,4,No,Northeast,Other,18.1,2135.62
+33,Female,27.16,4,No,Southeast,Surgery,36.56,3645.5
+42,Male,25.64,1,No,Northwest,Consultation,13.1,3137.71
+56,Male,18.1,0,No,Northwest,Surgery,33.59,4855.62
+24,Female,31.74,3,Yes,Northwest,Surgery,2.87,9276.75
+41,Male,22.64,0,Yes,Southwest,Surgery,40.45,8054.0
+29,Male,29.2,1,No,Southeast,Laboratory Tests,22.06,3078.76
+57,Female,38.37,1,No,Northeast,Other,30.92,4149.2
+17,Male,23.4,4,No,Northeast,Surgery,11.4,3723.65
+31,Female,15.35,3,No,Northeast,Surgery,32.82,2059.96
+45,Male,26.57,2,No,Northeast,Surgery,37.3,2378.21
+63,Female,33.5,1,No,Southwest,Laboratory Tests,23.24,3315.08
+39,Female,37.79,3,No,Northeast,Laboratory Tests,30.03,3715.2
+31,Male,21.85,0,No,Southwest,Laboratory Tests,22.45,3257.48
+68,Male,30.48,4,No,Southeast,Surgery,43.02,4160.56
+18,Female,25.67,0,Yes,Northwest,Consultation,24.4,7329.62
+7,Female,27.47,1,No,Northeast,Consultation,40.57,1675.33
+46,Female,41.22,1,No,Northwest,Consultation,38.66,4005.44
+32,Male,20.49,0,No,Southeast,Other,20.29,2579.6
+24,Male,29.27,1,No,Southeast,Surgery,11.81,2064.13
+50,Male,30.34,3,No,Northeast,Consultation,20.09,3479.3
+43,Male,33.43,1,No,Southeast,Consultation,39.83,3781.17
+31,Female,28.49,4,Yes,Northwest,Consultation,11.7,8080.77
+20,Female,29.54,3,Yes,Northeast,Surgery,25.65,7801.88
+53,Female,26.04,2,No,Southwest,Consultation,38.89,3277.15
+49,Female,29.35,1,Yes,Northeast,Consultation,17.61,8189.62
+38,Male,26.28,1,No,Northwest,Surgery,31.18,2507.66
+67,Female,31.11,4,No,Northeast,Other,12.54,3268.82
+23,Female,26.15,4,No,Northeast,Laboratory Tests,6.14,3259.68
+17,Male,29.89,0,No,Northwest,Consultation,38.34,3162.55
+29,Male,27.85,0,No,Northeast,Laboratory Tests,5.65,3189.1
+39,Female,33.63,0,No,Northeast,Other,13.75,2843.03
+43,Male,27.74,4,No,Northwest,Other,41.19,3180.11
+36,Female,19.13,0,Yes,Southeast,Consultation,17.28,6926.16
+45,Male,34.31,0,No,Northwest,Surgery,46.73,3515.43
+21,Male,23.47,2,No,Northeast,Other,47.05,3635.86
+61,Female,24.73,0,No,Southwest,Laboratory Tests,13.61,2689.56
+38,Male,25.02,1,No,Southwest,Laboratory Tests,2.93,2863.47
+56,Female,34.87,4,Yes,Northwest,Laboratory Tests,34.14,8734.0
+45,Male,17.32,3,No,Southwest,Laboratory Tests,22.2,3712.85
+46,Male,43.69,2,No,Northeast,Other,5.74,3401.66
+48,Male,33.28,4,No,Northeast,Consultation,34.25,3095.48
+46,Male,29.12,4,No,Northwest,Consultation,2.47,2349.86
+49,Male,27.73,1,No,Northeast,Laboratory Tests,41.9,3394.23
+59,Female,29.43,0,Yes,Southeast,Consultation,7.52,9517.59
+42,Male,30.61,1,No,Northeast,Laboratory Tests,6.98,3454.79
+50,Female,31.23,0,Yes,Northwest,Laboratory Tests,9.26,8413.38
+38,Male,30.78,0,No,Southeast,Surgery,46.13,3432.6
+61,Female,28.45,4,No,Southeast,Other,33.58,3495.41
+29,Male,27.01,0,No,Southwest,Other,38.66,2681.76
+67,Female,27.24,2,No,Northeast,Laboratory Tests,19.69,3960.51
+39,Female,27.03,2,Yes,Northwest,Other,16.81,8321.39
+18,Male,33.67,2,No,Southwest,Consultation,12.02,3098.18
+41,Male,30.97,4,Yes,Southwest,Laboratory Tests,23.59,7823.67
+29,Male,15.0,1,No,Northeast,Surgery,26.94,3499.75
+52,Female,31.28,3,No,Northeast,Consultation,30.69,3781.94
+30,Female,28.97,0,No,Northwest,Surgery,13.08,2863.01
+33,Male,27.91,3,No,Southwest,Surgery,45.59,3655.04
+11,Male,26.06,1,Yes,Northwest,Other,8.98,7604.36
+33,Female,33.62,1,Yes,Southwest,Other,46.39,7877.41
+3,Female,32.74,4,Yes,Southwest,Laboratory Tests,1.7,7510.9
+16,Male,24.14,2,No,Southwest,Other,23.61,1989.18
+51,Female,30.04,2,No,Northeast,Surgery,16.67,3648.48
+51,Male,23.14,1,No,Southwest,Surgery,22.11,2359.26
+46,Male,21.1,4,No,Southwest,Consultation,27.82,2559.82
+25,Male,24.87,4,No,Southwest,Surgery,21.47,1959.53
+39,Female,32.31,0,No,Southeast,Laboratory Tests,20.5,3271.2
+39,Female,32.77,2,No,Northeast,Laboratory Tests,35.44,3248.15
+22,Female,30.57,1,No,Southeast,Other,33.24,2911.96
+62,Female,31.63,3,No,Northeast,Other,40.16,3055.22
+53,Male,30.58,2,Yes,Northwest,Other,12.75,7861.5
+36,Female,24.79,0,No,Southeast,Laboratory Tests,29.65,3360.04
+40,Male,30.16,4,No,Northwest,Surgery,28.5,3007.92
+43,Male,32.0,1,No,Southwest,Other,18.38,3514.22
+9,Male,31.77,2,Yes,Northwest,Consultation,23.84,7500.8
+36,Female,33.94,3,No,Northwest,Other,15.75,3401.42
+29,Male,31.54,0,No,Northwest,Laboratory Tests,7.67,3830.47
+24,Male,29.76,0,Yes,Northwest,Other,11.05,8376.23
+35,Female,33.35,2,No,Northeast,Surgery,5.96,3080.81
+66,Male,27.87,3,No,Southeast,Other,33.1,3677.95
+49,Female,23.59,0,Yes,Northeast,Laboratory Tests,32.05,8139.48
+31,Female,27.18,1,Yes,Northeast,Laboratory Tests,45.68,8119.63
+48,Female,24.28,0,No,Northeast,Consultation,35.29,3098.7
